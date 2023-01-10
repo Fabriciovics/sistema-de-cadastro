@@ -7,5 +7,5 @@ Para rodar esse projeto em sua máquina, por favor digite:
 ```
 node app.js
 ```
-
+Conteudo para estudo no github
 :D
